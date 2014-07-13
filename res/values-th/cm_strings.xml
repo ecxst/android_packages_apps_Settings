@@ -220,12 +220,12 @@
   <string name="tile_choose_title">เลือกไทต์</string>
   <string name="title_qs_small_icons">แสดงไทต์เล็กลง</string>
   <string name="summary_qs_small_icons">ใช้ไทต์ที่เล็กลงเพื่อเพิ่มจำนวนคอลัมน์</string>
-  <string name="category_heads_up">Heads up</string>
+  <string name="category_heads_up">การแจ้งเตือนแบบป๊อบอัพ</string>
   <string name="summary_heads_up_enabled">เปิดใช้งานการแจ้งเตือนแบบป๊อปอัพ</string>
   <string name="summary_heads_up_disabled">ไม่ใช้งานการแจ้งเตือนแบบป๊อปอัพ</string>
   <string name="add_heads_up_package">เพิ่มแอป</string>
-  <string name="add_heads_up_dnd_summary">ไม่แสดง heads up ในแอปเหล่านี้</string>
-  <string name="add_heads_up_blacklist_summary">ไม่แสดง heads up จากแอปเหล่านี้</string>
+  <string name="add_heads_up_dnd_summary">ไม่แสดงการแจ้งเตือนป๊อบอัพในแอปเหล่านี้</string>
+  <string name="add_heads_up_blacklist_summary">ไม่แสดงการแจ้งเตือบป๊อบอัพจากแอปเหล่านี้</string>
   <string name="heads_up_dnd_title">ห้าม​รบกวน</string>
   <string name="heads_up_blacklist_title">บัญชีดำ</string>
   <string name="heads_up_disabled_notice">เพื่ออนุญาติให้แอปแสดงการแจ้งเตือนเป็นป็อปอัพบนหน้าจอของคุณ, เปิดใช้งาน Heads up.</string>
@@ -235,7 +235,7 @@
   <string name="title_tile_brightness">ความสว่าง</string>
   <string name="title_tile_camera">กล้อง</string>
   <string name="title_tile_compass">เข็มทิศ</string>
-  <string name="title_tile_heads_up">Heads up</string>
+  <string name="title_tile_heads_up">การแจ้งเตือนแบบป๊อบอัพ</string>
   <string name="title_tile_sleep">พักหน้าจอ</string>
   <string name="title_tile_gps">GPS</string>
   <string name="title_tile_torch">ไฟฉาย</string>
@@ -258,7 +258,7 @@
   <string name="title_tile_volume">ระดับเสียง</string>
   <string name="title_tile_expanded_desktop">เต็มจอ</string>
   <string name="title_tile_network_adb">ADB บนเครือข่าย</string>
-  <string name="title_dynamic_tiles">ไดนามิก ไทต์</string>
+  <string name="title_dynamic_tiles">แถบไดนามิก</string>
   <string name="dynamic_tiles_note_title">หมายเหตุ</string>
   <string name="dynamic_tiles_note_summary">ไดนามิกไทต์จะไม่แสดงเมื่อไม่ถูกกระตุ้นโดยระบบ</string>
   <string name="title_dynamic_alarm">นาฬิกาปลุก</string>
@@ -266,7 +266,7 @@
   <string name="title_dynamic_dock_battery">แท่นวางแบตเตอรี</string>
   <string name="title_dynamic_equalizer">ปรับแต่งเสียง</string>
   <string name="title_dynamic_ime">วิธีการป้อนจ้อมูล</string>
-  <string name="title_dynamic_usbtether">USB Tether</string>
+  <string name="title_dynamic_usbtether">การปล่อยอินเตอร์เน็ตผ่าน USB</string>
   <string name="title_dynamic_wifi">บันทึกหน้าจอ</string>
   <string name="title_general">ทั่วไป</string>
   <string name="title_quick_pulldown">ปัดลงอย่างเร็ว</string>
@@ -708,8 +708,8 @@
   <string name="settings_cmlicense_activity_title">เกี่ยวกับกฎหมาย CyanogenMod</string>
   <string name="settings_cmlicense_activity_unreachable">คุณไม่มีการเชื่อมต่ออินเตอร์เน็ต, เพื่อดูข้อมูลเดียวนี้,ไปยัง %s จากคอมพิวเตอร์ที่เชื่อมต่ออินเตอร์เน็ต</string>
   <string name="stylus_icon_enabled_title">แสดงไอคอนเมื่อใช้งานปากกาสไตลัส</string>
-  <string name="stylus_icon_enabled_summary">แสดงจุดบนจอเมื่อตวัดหรือวาดด้วยปากกา stylus</string>
-  <string name="gestures_settings_title">ท่าทางของปากกา Stylus</string>
+  <string name="stylus_icon_enabled_summary">แสดงจุดบนจอเมื่อตวัดหรือวาดด้วยปากกาสไตลัส</string>
+  <string name="gestures_settings_title">ท่าทางของปากกา สไตลัส</string>
   <string name="category_spen_title">ท่าทางของปากกา Stylus</string>
   <string name="enable_subcat_title">ปากกาสไตลัส</string>
   <string name="enable_spen_title_head">เปิดใช้งานท่าทาง</string>
